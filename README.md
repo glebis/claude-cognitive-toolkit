@@ -1,6 +1,6 @@
 # Claude Cognitive Toolkit
 
-Guided CBT and DBT practice exercises for AI assistants. A Claude Code skill that walks you through a thought record or an opposite-action exercise in the terminal (or over Telegram) and saves the result as markdown.
+Guided CBT and DBT practice exercises for AI assistants. A Claude Code skill that walks you through one of seven exercises in the terminal (or over Telegram) and saves the result as markdown.
 
 It is a practice tool for between therapy sessions. It is not a therapist and does not diagnose.
 
@@ -12,13 +12,15 @@ It is a practice tool for between therapy sessions. It is not a therapist and do
 |---|---|---|---|---|
 | Thought Record | CBT | 7 | 10–15 min | ✅ Available |
 | Opposite Action | DBT | 4 | ~5 min | ✅ Available |
-| TIPP | DBT | — | — | Planned |
-| DEAR MAN (with roleplay) | DBT | — | — | Planned |
-| Behavioral Activation | CBT | — | — | Planned |
-| Chain Analysis | DBT | — | — | Planned |
-| Wise Mind | DBT | — | — | Planned |
+| TIPP | DBT | 4 | 5–10 min | ✅ Available |
+| DEAR MAN (with roleplay) | DBT | 7 | 10–15 min | ✅ Available |
+| Wise Mind | DBT | 6 | ~8 min | ✅ Available |
+| Chain Analysis | DBT | 6 | ~15 min | ✅ Available |
+| Behavioral Activation | CBT | 6 | ~8 min | ✅ Available |
 
-Planned techniques have no protocol yet. The skill will tell you so rather than improvise one.
+Each technique has its own protocol file in [references/](references/), including a "When NOT to use" section. Anything not in this table has no protocol, and the skill will say so rather than improvise one.
+
+The five newest techniques (TIPP onwards) are written but have not yet been tried in many real sessions. Treat them as a first version.
 
 ---
 
@@ -42,6 +44,26 @@ Two things happen around those steps:
 ## Opposite Action
 
 A 4-step DBT emotion-regulation skill (Linehan): name the emotion, identify the action urge, check whether the urge is justified by the facts, and — only if it is not — act opposite to it. If the urge is justified, the exercise helps you act on it skillfully instead.
+
+## TIPP
+
+A DBT distress-tolerance skill (Linehan) for when arousal is too high to think: **T**emperature, **I**ntense exercise, **P**aced breathing, **P**aired muscle relaxation. You pick one; paced breathing is the default. It calms the body and does nothing about the problem that set it off — that can come later, with another technique. The cold-water step is offered only after a screening question, and not at all with a heart condition, beta blockers or an eating disorder.
+
+## DEAR MAN
+
+A DBT interpersonal-effectiveness skill for one specific conversation — asking for something or saying no. You build a short script: **D**escribe, **E**xpress, **A**ssert, **R**einforce, then a delivery plan (stay **M**indful, **A**ppear confident, **N**egotiate). You can then rehearse it: the assistant plays the other person, and steps out of role after each round with one observation. It is not for conversations with someone who is unsafe for you.
+
+## Wise Mind
+
+A DBT mindfulness skill for a decision pulled two ways. You let emotion mind and reasonable mind each speak, pause, and ask what you know when both are taken seriously. "Nothing yet" is a valid result. The assistant does not tell you which option to pick.
+
+## Chain Analysis
+
+A DBT method for one specific thing you did and regret: the behaviour, what set it off, what made you vulnerable that day, the links in between, the consequences, and where the chain could break next time. The stance is curiosity, not blame. It is **not** run on self-harm or suicidal behaviour — that analysis belongs with a trained therapist.
+
+## Behavioral Activation
+
+A CBT approach for low mood and withdrawal (Martell, Dimidjian & Herman-Dunn): you plan one small, scheduled activity chosen by what matters to you, predict how it will feel, and compare afterwards. It first checks whether the low energy is asking for rest — illness, burnout or lack of sleep — and plans rest instead if so.
 
 ---
 
@@ -74,11 +96,16 @@ Then, in Claude Code:
 /cbt                    # check-in, then a recommended technique
 /cbt thought-record     # go straight to a thought record
 /cbt opposite-action    # go straight to opposite action
+/cbt tipp               # calm the body first
+/cbt dear-man           # prepare a request or a no
+/cbt wise-mind          # a decision pulled two ways
+/cbt chain-analysis     # reconstruct something you regret
+/cbt behavioral-activation   # plan one small activity
 ```
 
 ### Telegram (via Hermes)
 
-See [hermes/setup-mac-mini.md](hermes/setup-mac-mini.md). Commands: `/record`, `/opposite`, `/checkin`, `/settings`.
+See [hermes/setup-mac-mini.md](hermes/setup-mac-mini.md). Commands: `/record`, `/opposite`, `/tipp`, `/dearman`, `/wise`, `/chain`, `/activate`, `/checkin`, `/settings`.
 
 An optional script, [scripts/nudge-check.sh](scripts/nudge-check.sh), decides when a check-in message is due. It only nudges someone who has used the toolkit before, backs off when nudges go unanswered, and supports opt-out and snooze.
 

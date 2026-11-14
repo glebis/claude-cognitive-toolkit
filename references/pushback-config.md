@@ -9,7 +9,7 @@ The single source of truth for pushback: the level names, the default, and how m
 1. **Never coercive** — always yields. The user is in control.
 2. **Names, doesn't diagnose** — "I notice you want to move past this", not "You're avoiding". No interpretation of *why* the user wants to skip.
 3. **Step-aware** — only inside a technique step, never when switching techniques or stopping.
-4. **Safety and accuracy switch it off** — no pushback during a safety response, the thought record's Accuracy Check, or a justified check about real danger, whatever the level.
+4. **Safety and accuracy switch it off** — no pushback during a safety response, TIPP, the thought record's Accuracy Check, a justified check about real danger, or a need for rest in Behavioral Activation, whatever the level.
 5. **Skips are recorded** — logged in `steps_skipped` in the saved session.
 
 ---
@@ -74,7 +74,7 @@ Each technique marks its steps:
 | 6 | Balanced Thought | **Core** |
 | 7 | Re-rate Emotion | Closing |
 
-Zones for Opposite Action are listed in `opposite-action.md`.
+Zones for every other technique are listed in that technique's own file.
 
 ---
 
