@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect x="0" y="0" width="1200" height="800" fill="#ffffff"/>
+<text x="60" y="88" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#1a1a1a" text-anchor="start">Behavioral Activation</text>
+<text x="60" y="116" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#5f5f5f" text-anchor="start">CBT · activity scheduling · about 8 min</text>
+<line x1="60" y1="140" x2="1140" y2="140" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="60" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">USE WHEN</text>
+<line x1="60" y1="205" x2="68" y2="205" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="210" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Low energy or flatness</text>
+<line x1="60" y1="233" x2="68" y2="233" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="238" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">“I don’t feel like doing anything”</text>
+<line x1="60" y1="261" x2="68" y2="261" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="266" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Days shrinking to the minimum</text>
+<text x="60" y="310" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#a3261d" text-anchor="start" letter-spacing="1.5">NOT WHEN</text>
+<line x1="60" y1="331" x2="68" y2="331" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="336" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Your body needs recovery — plan rest</text>
+<line x1="60" y1="359" x2="68" y2="359" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="364" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">You are panicking — settle first</text>
+<text x="60" y="408" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">YOU LEAVE WITH</text>
+<text x="60" y="434" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">One small activity with a day, a time and a</text>
+<text x="60" y="455" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">place</text>
+<text x="477" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">STEPS</text>
+<line x1="494" y1="220" x2="494" y2="671.219512195122" stroke="#c9c9c9" stroke-width="1.2"/>
+<circle cx="494" cy="220" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="225" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">1</text>
+<text x="532" y="217" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">What Has Dropped Away</text>
+<text x="532" y="237" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">What you used to do and have stopped</text>
+<circle cx="494" cy="301.3008130081301" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="306.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">2</text>
+<text x="532" y="298.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Rest Check</text>
+<text x="532" y="318.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Is the low energy asking for recovery?</text>
+<polygon points="494,346.33333333333337 501,353.33333333333337 494,360.33333333333337 487,353.33333333333337" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="501" y1="353.33333333333337" x2="524" y2="353.33333333333337" stroke="#1a1a1a" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="532" y="357.83333333333337" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#1a1a1a" text-anchor="start">If the body needs recovery, plan a deliberate rest instead</text>
+<circle cx="494" cy="427.31707317073176" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="494" y="432.31707317073176" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">3</text>
+<text x="532" y="424.31707317073176" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">What Matters</text>
+<text x="532" y="444.31707317073176" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">An area that matters to you, not a “should”</text>
+<circle cx="494" cy="508.61788617886185" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="494" y="513.6178861788619" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">4</text>
+<text x="532" y="505.61788617886185" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">One Activity, Made Small</text>
+<text x="532" y="525.6178861788619" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">5–20 minutes, scheduled, confidence 7/10 or more</text>
+<circle cx="494" cy="589.918699186992" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="594.918699186992" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">5</text>
+<text x="532" y="586.918699186992" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Predict</text>
+<text x="532" y="606.918699186992" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Expected enjoyment and accomplishment, 0–10</text>
+<circle cx="494" cy="671.219512195122" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="676.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">6</text>
+<text x="532" y="668.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Barriers</text>
+<text x="532" y="688.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">The likeliest obstacle, and one if-then plan</text>
+<line x1="60" y1="720" x2="1140" y2="720" stroke="#c9c9c9" stroke-width="1"/>
+<circle cx="68" cy="738" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="84" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="start">core step — the work happens here</text>
+<polygon points="312,732 318,738 312,744 306,738" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="326" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="start">a branch or exit</text>
+<text x="1140" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="end">A practice tool, not therapy. Safety comes before every step.</text>
+</svg>

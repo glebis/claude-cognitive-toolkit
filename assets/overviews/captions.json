@@ -1,0 +1,112 @@
+{
+  "thought-record": {
+    "title": "Thought Record",
+    "meta": "CBT · cognitive restructuring · 10–15 min",
+    "use_when": ["A thought keeps looping", "A reaction feels bigger than the event", "You are still stewing after a conflict"],
+    "not_when": ["You are panicking — settle first", "The thought is simply true"],
+    "leave_with": "A balanced thought and a re-rated emotion",
+    "steps": {
+      "1": "What happened, as a camera would record it",
+      "2": "The raw thought in that moment",
+      "3": "Name the emotion and rate it 0–10",
+      "4": "What supports the thought",
+      "5": "What does not fit the thought",
+      "6": "A fuller view that holds both sets of evidence",
+      "7": "Rate the same emotion again"
+    },
+    "exits": [{ "after": 5, "text": "Accuracy check: if the thought is simply true, switch to “what would help?”" }]
+  },
+  "opposite-action": {
+    "title": "Opposite Action",
+    "meta": "DBT · emotion regulation · about 5 min",
+    "use_when": ["You are avoiding something", "You want to withdraw or lash out", "The urge is bigger than the situation"],
+    "not_when": ["The urge is about your safety", "You are panicking — settle first"],
+    "leave_with": "One action in the other direction, done all the way",
+    "steps": {
+      "1": "As specific as you can: anger, fear, sadness, shame, guilt",
+      "2": "What the emotion wants you to do",
+      "3": "Does the urge fit the facts, not the feeling?",
+      "4": "A move in the other direction, all the way"
+    },
+    "exits": [{ "after": 3, "text": "If the urge fits the facts, act on it skilfully instead" }]
+  },
+  "tipp": {
+    "title": "TIPP",
+    "meta": "DBT · distress tolerance · 5–10 min",
+    "use_when": ["Panic or overwhelm", "You cannot think straight", "Intensity around 8–10"],
+    "not_when": ["Thoughts of suicide or self-harm — get help now", "Cold water with a heart condition, beta blockers or an eating disorder"],
+    "leave_with": "A calmer body. The problem itself can wait.",
+    "steps": {
+      "1": "You need only one of the four. Paced breathing is the default.",
+      "2": "Temperature · Intense exercise · Paced breathing · Paired muscle relaxation",
+      "3": "The same 0–10 scale as at the start",
+      "4": "Stop here, or look at the cause later"
+    },
+    "exits": [{ "after": 3, "text": "Still 7 or more after two skills: stop cycling, stay present" }]
+  },
+  "dear-man": {
+    "title": "DEAR MAN",
+    "meta": "DBT · interpersonal effectiveness · 10–15 min",
+    "use_when": ["You need to ask for something", "You need to say no", "A specific conversation is coming up"],
+    "not_when": ["The other person is unsafe for you", "You do not actually want this conversation", "You are panicking — settle first"],
+    "leave_with": "A short script in your own words",
+    "steps": {
+      "1": "One sentence: what you want, from whom, and what matters most",
+      "2": "Facts only. No “always”, no “never”.",
+      "3": "“I feel…”, not “you make me…”",
+      "4": "Ask plainly, or say no plainly. No hints.",
+      "5": "What is in it for them, said honestly",
+      "6": "Stay Mindful, Appear confident, Negotiate",
+      "7": "The script assembled in your words"
+    },
+    "exits": [{ "after": 7, "text": "Optional: rehearse it, with the assistant playing the other person" }]
+  },
+  "wise-mind": {
+    "title": "Wise Mind",
+    "meta": "DBT · core mindfulness · about 8 min",
+    "use_when": ["You are torn between two options", "“I know what I should do, but…”", "About to decide while very emotional"],
+    "not_when": ["Facts you need are still missing", "One option means danger", "You are panicking — settle first"],
+    "leave_with": "An answer, a smaller step, or a time to ask again",
+    "steps": {
+      "1": "The decision in one sentence",
+      "2": "Let the feeling speak without editing",
+      "3": "Facts, logic and consequences only",
+      "4": "A few slow breaths, then listen",
+      "5": "What you know when both are taken seriously",
+      "6": "Small and concrete, or a set time to return"
+    },
+    "exits": [{ "after": 5, "text": "“Nothing yet” is a valid result" }]
+  },
+  "chain-analysis": {
+    "title": "Chain Analysis",
+    "meta": "DBT · behaviour analysis · about 15 min",
+    "use_when": ["You did something you regret", "You skipped something you meant to do", "The same thing keeps happening"],
+    "not_when": ["Self-harm or suicidal behaviour — that belongs with a therapist", "Something that was done to you", "You are panicking — settle first"],
+    "leave_with": "One to three places where the chain can break",
+    "steps": {
+      "1": "One instance: what, when, where, how much",
+      "2": "The first moment things tipped",
+      "3": "Sleep, food, illness, stress, an earlier upset",
+      "4": "Thought, feeling, sensation, action — step by step",
+      "5": "What it gave you right away, and what it cost later",
+      "6": "A specific alternative at each, plus prevention and repair"
+    },
+    "exits": [{ "after": 3, "text": "For something you did not do: ask what got in the way at each point" }]
+  },
+  "behavioral-activation": {
+    "title": "Behavioral Activation",
+    "meta": "CBT · activity scheduling · about 8 min",
+    "use_when": ["Low energy or flatness", "“I don’t feel like doing anything”", "Days shrinking to the minimum"],
+    "not_when": ["Your body needs recovery — plan rest", "You are panicking — settle first"],
+    "leave_with": "One small activity with a day, a time and a place",
+    "steps": {
+      "1": "What you used to do and have stopped",
+      "2": "Is the low energy asking for recovery?",
+      "3": "An area that matters to you, not a “should”",
+      "4": "5–20 minutes, scheduled, confidence 7/10 or more",
+      "5": "Expected enjoyment and accomplishment, 0–10",
+      "6": "The likeliest obstacle, and one if-then plan"
+    },
+    "exits": [{ "after": 2, "text": "If the body needs recovery, plan a deliberate rest instead" }]
+  }
+}

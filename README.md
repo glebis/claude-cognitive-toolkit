@@ -22,6 +22,14 @@ Each technique has its own protocol file in [references/](references/), includin
 
 The five newest techniques (TIPP onwards) are written but have not yet been tried in many real sessions. Treat them as a first version.
 
+### One-page overviews
+
+Every technique has a one-page map: when to use it, when not to, the steps, and where it branches. Ask for it with `/cbt overview dear-man`.
+
+![DEAR MAN overview](assets/overviews/dear-man.svg)
+
+The maps are built by [scripts/build_overviews.py](scripts/build_overviews.py), which reads step names and core steps from the protocol files, so a map cannot drift from its protocol. If you use a Fabric.js-based sketch canvas, the SVG loads into it for annotation.
+
 ---
 
 ## Thought Record

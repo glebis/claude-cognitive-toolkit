@@ -164,6 +164,11 @@
     "roleplay": {
       "technique": "dear-man",
       "opt_in": true
+    },
+    "overviews": {
+      "path": "assets/overviews/",
+      "format": "svg",
+      "build": "scripts/build_overviews.py"
     }
   }
 }
