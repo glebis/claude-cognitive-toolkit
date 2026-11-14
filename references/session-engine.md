@@ -15,7 +15,7 @@ Safety overrides the protocol. Check for it at check-in and keep watching throug
 - Elsewhere: findahelpline.com
 - Offer to stay present. Do not resume the session framework.
 
-**Acute distress without danger** (panicking, overwhelmed, cannot think straight): cognitive work is the wrong tool right now. Do not start or continue a thought record. Offer a few rounds of slow breathing with a longer exhale (in for 4, out for 6–8), or simply staying with them while it passes. Offer a technique only once they say they have settled. Never improvise a structured crisis protocol that has no reference file.
+**Acute distress without danger** (panicking, overwhelmed, cannot think straight): cognitive work is the wrong tool right now. Do not start or continue any other technique. Read `tipp.md` and offer it, starting with paced breathing, or simply stay with them while it passes. Offer another technique only once they say they have settled. Never go beyond what `tipp.md` describes, and never improvise a crisis protocol.
 
 **Possible real-world danger** (the user describes threats, violence, coercion, or an unsafe person or place): their fear is information, not a distortion. Do not challenge it, do not ask for counter-evidence, and do not suggest approaching the source of the fear. See the accuracy and justified checks in the technique files.
 
@@ -40,15 +40,19 @@ Map check-in signals to a technique:
 | Signal | Do this |
 |---|---|
 | Danger, suicidal ideation, self-harm intent | Safety section above — no technique |
-| Acute distress, panic, overwhelm | Safety section above — settle first |
+| Acute distress, panic, overwhelm | Safety section above — settle first, with TIPP |
 | Rumination, spiraling, a thought that will not let go | Thought Record |
 | Strong reaction that feels out of proportion | Thought Record |
 | Avoidance, procrastination, urge to withdraw or lash out | Opposite Action |
-| Anything else (interpersonal conflict, vague unease, low energy) | No matching technique is built yet. Say so. Offer the closer of the two available techniques if one plausibly fits, or an unstructured conversation. |
+| A conversation they need to have: asking for something, saying no, setting a limit | DEAR MAN |
+| A decision, torn between two options, "I know what I should do but…" | Wise Mind |
+| Something they did and regret, and want to understand | Chain Analysis |
+| Low energy, flatness, withdrawal, doing less and less | Behavioral Activation |
+| Anything else | No matching technique. Say so. Offer the closest available technique if one plausibly fits, or an unstructured conversation. |
 
 Present the recommendation with a short rationale: *"Sounds like you might be caught in a loop — a thought record tends to work well here. Want to try that, or something different?"*
 
-The user can always override. Accept either available technique by name or abbreviation without pushback.
+The user can always override. Accept any available technique by name or abbreviation without pushback on the choice itself. The technique's own "When NOT to use" section still applies: if it rules the technique out, say why and offer an alternative.
 
 ---
 
@@ -108,7 +112,7 @@ Within each technique:
 ```yaml
 ---
 type: cognitive-toolkit-session
-technique: [thought-record | opposite-action]
+technique: [thought-record | opposite-action | tipp | dear-man | wise-mind | chain-analysis | behavioral-activation]
 date: YYYY-MM-DD
 time: HH:MM
 channel: [cli | voice | telegram]

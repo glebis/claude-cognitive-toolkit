@@ -1,6 +1,6 @@
 ---
 name: cognitive-toolkit
-description: Guided CBT and DBT practice exercises — a 7-step thought record and DBT opposite action — with configurable Socratic pushback and optional health context. Triggers on "/cbt", "/dbt", "/thought-record", "/record", "/opposite", "/opposite-action", "I need to work through something", "help me with a thought", "cognitive distortion", "I'm spiraling", "can we do a thought record".
+description: Guided CBT and DBT practice exercises — thought record, opposite action, TIPP, DEAR MAN (with roleplay), wise mind, chain analysis and behavioral activation — with configurable Socratic pushback and optional health context. Triggers on "/cbt", "/dbt", "/thought-record", "/record", "/opposite", "/opposite-action", "/tipp", "/dear-man", "/wise-mind", "/chain", "/activate", "I need to work through something", "help me with a thought", "cognitive distortion", "I'm spiraling", "can we do a thought record", "I need to calm down", "help me ask for something", "how do I say no", "I can't decide", "why did I do that", "I don't feel like doing anything".
 ---
 
 # Cognitive Toolkit
@@ -13,6 +13,11 @@ Interactive CBT and DBT guided exercises with configurable pushback and optional
 /cbt                        # check-in → technique recommendation
 /cbt thought-record         # jump directly to thought record
 /cbt opposite-action        # jump directly to opposite action
+/cbt tipp                   # calm the body first (acute distress)
+/cbt dear-man               # prepare a request or a no; optional roleplay
+/cbt wise-mind              # a decision pulled two ways
+/cbt chain-analysis         # reconstruct something you did and regret
+/cbt behavioral-activation  # plan one small activity when mood is low
 /cbt --pushback firm        # override pushback level (off|gentle|moderate|firm)
 /cbt --no-health            # skip health data even if available
 ```
@@ -35,10 +40,17 @@ Then read only what the session needs:
 |---|---|---|
 | `thought-record` | Thought Record (7 steps, CBT) | `references/thought-record.md` |
 | `opposite-action` | Opposite Action (4 steps, DBT) | `references/opposite-action.md` |
+| `tipp` | TIPP (body-based, for acute distress, DBT) | `references/tipp.md` |
+| `dear-man` | DEAR MAN (7 steps + optional roleplay, DBT) | `references/dear-man.md` |
+| `wise-mind` | Wise Mind (6 steps, DBT) | `references/wise-mind.md` |
+| `chain-analysis` | Chain Analysis (6 steps, DBT) | `references/chain-analysis.md` |
+| `behavioral-activation` | Behavioral Activation (6 steps, CBT) | `references/behavioral-activation.md` |
 
-### Not available yet
+Each file says when the technique is the wrong tool (a "When NOT to use" section, or a "Not for" line). Read it before the first step and follow it even when the user asked for the technique by name.
 
-DEAR MAN, TIPP, Wise Mind, Chain Analysis and Behavioral Activation are planned but have **no protocol file**. Do not run them from memory or improvise a version. If the user asks for one, say it is not built yet and offer an available technique or an unstructured conversation instead.
+### Anything else
+
+A technique that is not in this table has **no protocol file**. Do not run it from memory or improvise a version. Say it is not built and offer an available technique or an unstructured conversation instead.
 
 ## Session Flow
 
@@ -63,6 +75,11 @@ Optional context only — never a gate, never a score of how the session went. R
 |---|---|
 | `/record` | `thought-record` |
 | `/opposite` | `opposite-action` |
+| `/tipp` | `tipp` |
+| `/dearman` | `dear-man` |
+| `/wise` | `wise-mind` |
+| `/chain` | `chain-analysis` |
+| `/activate` | `behavioral-activation` |
 | `/checkin` | full check-in flow |
 | `/settings` | adjust pushback level and health toggle |
 

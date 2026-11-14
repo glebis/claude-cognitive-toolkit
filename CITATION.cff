@@ -8,8 +8,8 @@ authors:
     email: glebis@gmail.com
 repository-code: "https://github.com/glebis/claude-cognitive-toolkit"
 license: MIT
-version: 0.1.0
-date-released: "2026-04-26"
+version: 0.2.0
+date-released: "2026-11-14"
 keywords:
   - cognitive behavioral therapy
   - dialectical behavior therapy
