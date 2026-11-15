@@ -21,6 +21,7 @@ Interactive CBT and DBT guided exercises with configurable pushback and optional
 /cbt overview dear-man      # show a one-page map of a technique
 /cbt --pushback firm        # override pushback level (off|gentle|moderate|firm)
 /cbt --no-health            # skip health data even if available
+/cbt --lang ru              # run the session in Russian (en|ru)
 ```
 
 ## What to read
@@ -34,6 +35,7 @@ Then read only what the session needs:
 
 3. The reference file of the chosen technique (table below) — after the technique is chosen, not before.
 4. `references/health-integration.md` — only if a health MCP is available and `--no-health` was not passed.
+5. `references/language-ru.md` — only when the session language is Russian. How the language is chosen, including the optional question at first start, is in `session-engine.md`.
 
 ## Available Techniques
 
@@ -100,7 +102,7 @@ Optional context only — never a gate, never a score of how the session went. R
 | `/chain` | `chain-analysis` |
 | `/activate` | `behavioral-activation` |
 | `/checkin` | full check-in flow |
-| `/settings` | adjust pushback level and health toggle |
+| `/settings` | adjust pushback level, health toggle and language |
 
 When running under Hermes, also read `hermes/HERMES_ADAPTER.md`.
 

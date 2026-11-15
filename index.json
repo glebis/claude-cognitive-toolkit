@@ -161,6 +161,12 @@
       ],
       "bot_support": true
     },
+    "languages": {
+      "supported": ["en", "ru"],
+      "default": "follows the user",
+      "first_start_choice": true,
+      "references": { "ru": "references/language-ru.md" }
+    },
     "roleplay": {
       "technique": "dear-man",
       "opt_in": true
