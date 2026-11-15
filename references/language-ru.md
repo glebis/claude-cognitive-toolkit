@@ -30,17 +30,55 @@ Abbreviations: ДБТ — диалектическая поведенческа�
 
 ### Acronym letters
 
-ТРУД and ПОПРОСИ are Russian acronyms for TIPP and DEAR MAN. The English files name a step by its letter (T — Temperature, D — Describe, and so on).
+ТРУД and ПОПРОСИ are the acronyms used in the Russian edition of Linehan's skills manual. At first mention write **ТРУД (TIPP)** or **ПОПРОСИ (DEAR MAN)**, then use the Russian name. Accept the English names as aliases.
 
-<!-- TODO(Gleb): write the Russian word for each letter. The pairing below assumes the letters
-follow the English order; correct it if they do not. Then replace the interim rule below.
+Keep the published labels below as they are, including their formal imperatives («Перечислите факты»). Explain each label in plain words; your own prompts use «ты» or «вы» as set under Address.
 
-ТРУД:     Т = ___ (Temperature)  Р = ___ (Intense exercise)  У = ___ (Paced breathing)  Д = ___ (Paired muscle relaxation)
-ПОПРОСИ:  П = ___ (Describe)  О = ___ (Express)  П = ___ (Assert)  Р = ___ (Reinforce)
-          О = ___ (Mindful)  С = ___ (Appear confident)  И = ___ (Negotiate)
--->
+The letters do not follow the English order. Always work out a component from its position and meaning, not its letter.
 
-Until the expansions are written here: use the acronym only as the technique's name. Name each step by its meaning in Russian (for example «холодная вода», «опиши ситуацию»). Do not spell the acronym out letter by letter and do not invent expansions.
+This is a terminology map only. The steps, medical checks and pushback rules stay in `tipp.md` and `dear-man.md`.
+
+#### ТРУД — TIPP
+
+| Letter | Published label | English component | Section in `tipp.md` |
+|---|---|---|---|
+| **Т** | Температура | T — Temperature | T — Temperature |
+| **Р** | Релаксация | P — Paired muscle relaxation | P — Paired muscle relaxation |
+| **У** | физические Упражнения | I — Intense exercise | I — Intense exercise |
+| **Д** | Дыхание | P — Paced breathing | P — Paced breathing |
+
+- ТРУД is a menu, not a sequence. When you list the options, use the Russian order. The user still picks one, as in Step 1 of `tipp.md`, which suggests Д (breathing) first.
+- Keep Р and Д apart: muscle relaxation and breathing are different components. Linehan's original handout groups both P components under the name TIP.
+- **Р:** say plainly that the muscles are tensed on the in-breath and released on the out-breath.
+- **Д:** 4 seconds in and 6 out is a starting example, not a rule. Adjust to what is comfortable.
+- After an attempt, ask what the user noticed. Do not assume it worked and do not guess at physical changes from their text.
+
+#### ПОПРОСИ — DEAR MAN
+
+| Position | Letter | Published label | English component | Step in `dear-man.md` | Example question |
+|---|---|---|---|---|---|
+| 1 | **П** | Перечислите факты | D — Describe | Step 2 | «Что конкретно произошло? Какие факты важно назвать?» |
+| 2 | **О** | Опишите свое отношение | E — Express | Step 3 | «Что ты чувствуешь и как относишься к этой ситуации?» |
+| 3 | **П** | Попросите, что хотите | A — Assert | Step 4 | «О чём ты хочешь попросить или в чём отказать? Как сказать это прямо?» |
+| 4 | **Р** | Расскажите, почему это хорошо | R — Reinforce | Step 5 | «Чем поможет то, о чём ты просишь? Как объяснить пользу собеседнику?» |
+| 5 | **О** | Обсуждайте разные варианты | N — Negotiate | Step 6, Negotiate part | «Какие ещё варианты тебе подходят? В чём ты готов уступить?» |
+| 6 | **С** | Стойте на своем | M — Mindful | Step 6, Mindful part | «К какой основной просьбе или отказу ты будешь спокойно возвращаться?» |
+| 7 | **И** | Изобразите уверенность | A — Appear confident | Step 6, Appear confident part | «Как сказать это ясно и уверенно?» |
+
+- In Russian, run the three parts of Step 6 in the Russian order: О (Negotiate), then С (Mindful), then И (Appear confident). The other steps keep the order of `dear-man.md`. The rehearsal stays the optional roleplay after Step 7.
+- The first **О** is the user's feelings and view. Keep guesses about the other person's intentions out of it; they are not facts.
+- The second **П** includes saying no. Support a plain refusal when that is the goal.
+- **Р** is genuine benefit and appreciation. Never invented incentives, guilt or pressure.
+- **С** means coming back to the main point while staying open to the alternatives under the second **О**. It does not mean repeating the request after the other person has clearly said no.
+- **И** is about delivery. Help the user sound clear even when unsure, without changing facts or promises.
+- О, С and И can be used throughout the conversation. They do not each need their own sentence in the script.
+- If the other person is unsafe, the "When NOT to use" section of `dear-man.md` applies. Never turn С into advice to keep confronting them.
+
+#### Sources
+
+- Russian edition of Linehan's skills manual, printed p. 59: the acronym expansions. Publisher's excerpt: https://www.williamspublishing.com/PDF/978-5-907203-23-5/part.pdf
+- Linehan, M. M. (2015). *DBT Skills Training Handouts and Worksheets* (2nd ed.). Guilford Press. Interpersonal Effectiveness Handout 5, pp. 125–126; Distress Tolerance Handout 6, p. 329.
+- Behavioral Tech, on paced breathing: https://behavioraltech.org/dbt-skills-in-the-covid-19-pandemic/
 
 ---
 
