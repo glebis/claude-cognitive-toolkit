@@ -1,5 +1,7 @@
 # Claude Cognitive Toolkit
 
+[Русская версия](README.ru.md)
+
 Guided CBT and DBT practice exercises for AI assistants. A Claude Code skill that walks you through one of seven exercises in the terminal (or over Telegram) and saves the result as markdown.
 
 It is a practice tool for between therapy sessions. It is not a therapist and does not diagnose.
@@ -55,7 +57,7 @@ A 4-step DBT emotion-regulation skill (Linehan): name the emotion, identify the 
 
 ## TIPP
 
-A DBT distress-tolerance skill (Linehan) for when arousal is too high to think: **T**emperature, **I**ntense exercise, **P**aced breathing, **P**aired muscle relaxation. You pick one; paced breathing is the default. It calms the body and does nothing about the problem that set it off — that can come later, with another technique. The cold-water step is offered only after a screening question, and not at all with a heart condition, beta blockers or an eating disorder.
+A DBT distress-tolerance skill (Linehan) for when arousal is too high to think: **T**emperature, **I**ntense exercise, **P**aced breathing, **P**aired muscle relaxation. You pick one; paced breathing is the default. It calms the body and does nothing about the problem that set it off — that can come later, with another technique. The cold-water step is offered only after a screening question, and not at all with a heart condition, beta blockers, a cold allergy or an eating disorder.
 
 ## DEAR MAN
 
@@ -115,6 +117,11 @@ Then, in Claude Code:
 ### Language
 
 Sessions run in English or Russian. The skill follows the language you write in. On the very first session it asks once which you prefer; you can ignore the question and just start. The Russian names and wording are in [references/language-ru.md](references/language-ru.md).
+
+The Russian README, [README.ru.md](README.ru.md), says where the translation comes from:
+- the technique names and descriptions are the project author's own;
+- the ТРУД (TIPP) and ПОПРОСИ (DEAR MAN) expansions follow the Russian edition of Linehan's skills manual;
+- the remaining wording was drafted with AI help and has not yet been reviewed by a clinician.
 
 ### Telegram (via Hermes)
 
