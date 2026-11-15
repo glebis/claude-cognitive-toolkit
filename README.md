@@ -22,6 +22,14 @@ Each technique has its own protocol file in [references/](references/), includin
 
 The five newest techniques (TIPP onwards) are written but have not yet been tried in many real sessions. Treat them as a first version.
 
+### One-page overviews
+
+Every technique has a one-page map: when to use it, when not to, the steps, and where it branches. Ask for it with `/cbt overview dear-man`.
+
+![DEAR MAN overview](assets/overviews/dear-man.svg)
+
+The maps are built by [scripts/build_overviews.py](scripts/build_overviews.py), which reads step names and core steps from the protocol files, so a map cannot drift from its protocol. If you use a Fabric.js-based sketch canvas, the SVG loads into it for annotation.
+
 ---
 
 ## Thought Record
@@ -101,7 +109,12 @@ Then, in Claude Code:
 /cbt wise-mind          # a decision pulled two ways
 /cbt chain-analysis     # reconstruct something you regret
 /cbt behavioral-activation   # plan one small activity
+/cbt --lang ru          # run the session in Russian
 ```
+
+### Language
+
+Sessions run in English or Russian. The skill follows the language you write in. On the very first session it asks once which you prefer; you can ignore the question and just start. The Russian names and wording are in [references/language-ru.md](references/language-ru.md).
 
 ### Telegram (via Hermes)
 

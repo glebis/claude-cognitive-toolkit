@@ -21,6 +21,27 @@ Safety overrides the protocol. Check for it at check-in and keep watching throug
 
 ---
 
+## Language
+
+Supported: English (`en`) and Russian (`ru`). For Russian, read `language-ru.md` for the technique names and wording.
+
+**Which language to use**, first match wins:
+
+1. The user asks for one: the `--lang en|ru` flag, or mid-session ("in English", «давай по-русски»). Switch at once and keep it for the rest of the session.
+2. The language the user writes in during this session.
+3. The `language` of the most recent saved session.
+4. The default language of the session or channel; if there is none, English.
+
+Rules 3 and 4 matter mostly for the opening line, before the user has written anything.
+
+**First start** (the sessions folder has no saved sessions): before the check-in, ask once, in both languages: *"English or Russian? / Русский или английский?"* The question is optional: if the user just starts talking, use their language and do not ask again. Save the choice as `language` in the frontmatter of that session.
+
+**Other languages:** run the session in the user's language, translating from the English files, and keep the English technique names.
+
+**Safety comes first:** never delay the crisis message to settle the language. Give it in the language the user is writing in.
+
+---
+
 ## Phase 1: Check-in
 
 Open with: *"What's going on right now? Just a sentence or two."*
@@ -99,6 +120,8 @@ Within each technique:
 | `no pushback` | Set pushback to `off` for this session |
 | `help` | List these commands |
 
+Russian equivalents are in `language-ru.md`.
+
 ---
 
 ## Saved Session Format
@@ -116,6 +139,7 @@ technique: [thought-record | opposite-action | tipp | dear-man | wise-mind | cha
 date: YYYY-MM-DD
 time: HH:MM
 channel: [cli | voice | telegram]
+language: [en | ru | other ISO 639-1 code]
 pushback_level: [off | gentle | moderate | firm]
 pre_intensity: [0-10]
 post_intensity: [0-10]

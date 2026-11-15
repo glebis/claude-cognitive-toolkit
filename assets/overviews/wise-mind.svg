@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect x="0" y="0" width="1200" height="800" fill="#ffffff"/>
+<text x="60" y="88" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#1a1a1a" text-anchor="start">Wise Mind</text>
+<text x="60" y="116" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#5f5f5f" text-anchor="start">DBT · core mindfulness · about 8 min</text>
+<line x1="60" y1="140" x2="1140" y2="140" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="60" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">USE WHEN</text>
+<line x1="60" y1="205" x2="68" y2="205" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="210" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">You are torn between two options</text>
+<line x1="60" y1="233" x2="68" y2="233" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="238" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">“I know what I should do, but…”</text>
+<line x1="60" y1="261" x2="68" y2="261" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="266" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">About to decide while very emotional</text>
+<text x="60" y="310" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#a3261d" text-anchor="start" letter-spacing="1.5">NOT WHEN</text>
+<line x1="60" y1="331" x2="68" y2="331" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="336" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Facts you need are still missing</text>
+<line x1="60" y1="359" x2="68" y2="359" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="364" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">One option means danger</text>
+<line x1="60" y1="387" x2="68" y2="387" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="392" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">You are panicking — settle first</text>
+<text x="60" y="436" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">YOU LEAVE WITH</text>
+<text x="60" y="462" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">An answer, a smaller step, or a time to ask</text>
+<text x="60" y="483" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">again</text>
+<text x="477" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">STEPS</text>
+<line x1="494" y1="220" x2="494" y2="671.219512195122" stroke="#c9c9c9" stroke-width="1.2"/>
+<circle cx="494" cy="220" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="225" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">1</text>
+<text x="532" y="217" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Name the Question</text>
+<text x="532" y="237" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">The decision in one sentence</text>
+<circle cx="494" cy="301.3008130081301" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="494" y="306.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">2</text>
+<text x="532" y="298.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Emotion Mind</text>
+<text x="532" y="318.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Let the feeling speak without editing</text>
+<circle cx="494" cy="382.6016260162602" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="494" y="387.6016260162602" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">3</text>
+<text x="532" y="379.6016260162602" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Reasonable Mind</text>
+<text x="532" y="399.6016260162602" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Facts, logic and consequences only</text>
+<circle cx="494" cy="463.9024390243903" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="468.9024390243903" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">4</text>
+<text x="532" y="460.9024390243903" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Pause</text>
+<text x="532" y="480.9024390243903" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">A few slow breaths, then listen</text>
+<circle cx="494" cy="545.2032520325204" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="550.2032520325204" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">5</text>
+<text x="532" y="542.2032520325204" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Wise Mind</text>
+<text x="532" y="562.2032520325204" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">What you know when both are taken seriously</text>
+<polygon points="494,590.2357723577236 501,597.2357723577236 494,604.2357723577236 487,597.2357723577236" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="501" y1="597.2357723577236" x2="524" y2="597.2357723577236" stroke="#1a1a1a" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="532" y="601.7357723577236" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#1a1a1a" text-anchor="start">“Nothing yet” is a valid result</text>
+<circle cx="494" cy="671.219512195122" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="676.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">6</text>
+<text x="532" y="668.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">One Next Step</text>
+<text x="532" y="688.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Small and concrete, or a set time to return</text>
+<line x1="60" y1="720" x2="1140" y2="720" stroke="#c9c9c9" stroke-width="1"/>
+<circle cx="68" cy="738" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="84" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="start">core step — the work happens here</text>
+<polygon points="312,732 318,738 312,744 306,738" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="326" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="start">a branch or exit</text>
+<text x="1140" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="end">A practice tool, not therapy. Safety comes before every step.</text>
+</svg>

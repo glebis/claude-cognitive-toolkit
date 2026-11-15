@@ -63,7 +63,7 @@ Give one instruction at a time. Wait for the user before the next one.
 ### T — Temperature
 
 **Screen first. Ask this one question before offering anything:**
-> "Before cold water: do you have a heart condition or a low heart rate, take beta blockers, have an eating disorder, or are you pregnant with medical concerns? Or are you not sure?"
+> "Before cold water: do you have a heart condition or a low heart rate, take beta blockers, have a cold allergy or an eating disorder, or are you pregnant with medical concerns? Or are you not sure?"
 
 If the answer is yes to any, or "not sure": "Skip this one. Check with a doctor first. Let's do slow breathing instead." Move to Paced breathing. Do not offer cold again this session.
 
@@ -87,7 +87,7 @@ Skip if the user is injured, ill, or has been told not to exert themselves. Othe
 ### P — Paced breathing
 
 1. "Breathe in through your nose for 4."
-2. "Out slowly for 6 to 8."
+2. "Out slowly for 6 to 8." These counts are a starting point. If they feel strained, shorten both and keep the out-breath longer than the in-breath.
 3. Count a few rounds with them: "In, 2, 3, 4. Out, 2, 3, 4, 5, 6." Keep going for 2–5 minutes in total.
 4. If slow breathing makes them dizzy or more panicky: "Stop. Breathe normally. That's fine." Offer a different skill once, or just stay with them.
 

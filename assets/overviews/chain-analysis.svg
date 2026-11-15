@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect x="0" y="0" width="1200" height="800" fill="#ffffff"/>
+<text x="60" y="88" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#1a1a1a" text-anchor="start">Chain Analysis</text>
+<text x="60" y="116" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#5f5f5f" text-anchor="start">DBT · behaviour analysis · about 15 min</text>
+<line x1="60" y1="140" x2="1140" y2="140" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="60" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">USE WHEN</text>
+<line x1="60" y1="205" x2="68" y2="205" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="210" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">You did something you regret</text>
+<line x1="60" y1="233" x2="68" y2="233" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="238" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">You skipped something you meant to do</text>
+<line x1="60" y1="261" x2="68" y2="261" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="266" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">The same thing keeps happening</text>
+<text x="60" y="310" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#a3261d" text-anchor="start" letter-spacing="1.5">NOT WHEN</text>
+<line x1="60" y1="331" x2="68" y2="331" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="336" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Self-harm or suicidal behaviour — that</text>
+<text x="78" y="357" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">belongs with a therapist</text>
+<line x1="60" y1="380" x2="68" y2="380" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="385" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Something that was done to you</text>
+<line x1="60" y1="408" x2="68" y2="408" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="413" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">You are panicking — settle first</text>
+<text x="60" y="457" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">YOU LEAVE WITH</text>
+<text x="60" y="483" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">One to three places where the chain can</text>
+<text x="60" y="504" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">break</text>
+<text x="477" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">STEPS</text>
+<line x1="494" y1="220" x2="494" y2="671.219512195122" stroke="#c9c9c9" stroke-width="1.2"/>
+<circle cx="494" cy="220" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="494" y="225" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">1</text>
+<text x="532" y="217" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Target Behaviour</text>
+<text x="532" y="237" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">One instance: what, when, where, how much</text>
+<circle cx="494" cy="301.3008130081301" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="494" y="306.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">2</text>
+<text x="532" y="298.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Prompting Event</text>
+<text x="532" y="318.3008130081301" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">The first moment things tipped</text>
+<circle cx="494" cy="382.6016260162602" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="387.6016260162602" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">3</text>
+<text x="532" y="379.6016260162602" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Vulnerabilities</text>
+<text x="532" y="399.6016260162602" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Sleep, food, illness, stress, an earlier upset</text>
+<polygon points="494,427.63414634146346 501,434.63414634146346 494,441.63414634146346 487,434.63414634146346" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="501" y1="434.63414634146346" x2="524" y2="434.63414634146346" stroke="#1a1a1a" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="532" y="439.13414634146346" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#1a1a1a" text-anchor="start">For something you did not do: ask what got in the way at each point</text>
+<circle cx="494" cy="508.61788617886185" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="494" y="513.6178861788619" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">4</text>
+<text x="532" y="505.61788617886185" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">The Links</text>
+<text x="532" y="525.6178861788619" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Thought, feeling, sensation, action — step by step</text>
+<circle cx="494" cy="589.918699186992" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="594.918699186992" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">5</text>
+<text x="532" y="586.918699186992" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Consequences</text>
+<text x="532" y="606.918699186992" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">What it gave you right away, and what it cost later</text>
+<circle cx="494" cy="671.219512195122" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="494" y="676.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">6</text>
+<text x="532" y="668.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Break Points</text>
+<text x="532" y="688.219512195122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">A specific alternative at each, plus prevention and repair</text>
+<line x1="60" y1="720" x2="1140" y2="720" stroke="#c9c9c9" stroke-width="1"/>
+<circle cx="68" cy="738" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="84" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="start">core step — the work happens here</text>
+<polygon points="312,732 318,738 312,744 306,738" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="326" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="start">a branch or exit</text>
+<text x="1140" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="end">A practice tool, not therapy. Safety comes before every step.</text>
+</svg>

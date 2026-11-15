@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect x="0" y="0" width="1200" height="800" fill="#ffffff"/>
+<text x="60" y="88" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#1a1a1a" text-anchor="start">TIPP</text>
+<text x="60" y="116" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#5f5f5f" text-anchor="start">DBT · distress tolerance · 5–10 min</text>
+<line x1="60" y1="140" x2="1140" y2="140" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="60" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">USE WHEN</text>
+<line x1="60" y1="205" x2="68" y2="205" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="210" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Panic or overwhelm</text>
+<line x1="60" y1="233" x2="68" y2="233" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="238" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">You cannot think straight</text>
+<line x1="60" y1="261" x2="68" y2="261" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="266" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Intensity around 8–10</text>
+<text x="60" y="310" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#a3261d" text-anchor="start" letter-spacing="1.5">NOT WHEN</text>
+<line x1="60" y1="331" x2="68" y2="331" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="336" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Thoughts of suicide or self-harm — get</text>
+<text x="78" y="357" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">help now</text>
+<line x1="60" y1="380" x2="68" y2="380" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="78" y="385" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">Cold water with a heart condition, beta</text>
+<text x="78" y="406" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">blockers or an eating disorder</text>
+<text x="60" y="450" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">YOU LEAVE WITH</text>
+<text x="60" y="476" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1a1a1a" text-anchor="start">A calmer body. The problem itself can wait.</text>
+<text x="477" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" fill="#5f5f5f" text-anchor="start" letter-spacing="1.5">STEPS</text>
+<line x1="494" y1="220" x2="494" y2="546.6" stroke="#c9c9c9" stroke-width="1.2"/>
+<circle cx="494" cy="220" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="225" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">1</text>
+<text x="532" y="217" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Choose One Skill</text>
+<text x="532" y="237" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">You need only one of the four. Paced breathing is the default.</text>
+<circle cx="494" cy="312" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="317" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">2</text>
+<text x="532" y="309" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Do It</text>
+<text x="532" y="329" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Temperature · Intense exercise · Paced breathing · Paired muscle relaxation</text>
+<circle cx="494" cy="404" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="409" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">3</text>
+<text x="532" y="401" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">Re-rate Intensity</text>
+<text x="532" y="421" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">The same 0–10 scale as at the start</text>
+<polygon points="494,455.88 501,462.88 494,469.88 487,462.88" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="501" y1="462.88" x2="524" y2="462.88" stroke="#1a1a1a" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="532" y="467.38" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#1a1a1a" text-anchor="start">Still 7 or more after two skills: stop cycling, stay present</text>
+<circle cx="494" cy="546.6" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="494" y="551.6" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">4</text>
+<text x="532" y="543.6" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#1a1a1a" text-anchor="start">What Next</text>
+<text x="532" y="563.6" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="normal" fill="#5f5f5f" text-anchor="start">Stop here, or look at the cause later</text>
+<line x1="60" y1="720" x2="1140" y2="720" stroke="#c9c9c9" stroke-width="1"/>
+<circle cx="68" cy="738" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<text x="84" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="start">core step — the work happens here</text>
+<polygon points="312,732 318,738 312,744 306,738" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="326" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="start">a branch or exit</text>
+<text x="1140" y="742" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#5f5f5f" text-anchor="end">A practice tool, not therapy. Safety comes before every step.</text>
+</svg>
